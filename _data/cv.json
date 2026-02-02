@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Lingxiao Zhao",
+    "email": "lingxiaozhao@whu.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://IteratorandIterator.github.io",
+    "summary": "Currently studyed at Wuhan University as a Ph.d student.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Wuhan",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
@@ -25,38 +25,29 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "IteratorandIterator",
+        "url": "https://github.com/IteratorandIterator"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Wuhan University",
+      "area": "Ph.D in MLSys",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2024",
+      "endDate": "2029 (expected)",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
+      "institution": "HeFei University of Technology",
       "area": "B.S. in GitHub",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2020",
+      "endDate": "2024",
+      "gpa": 3.9/4.3,
       "courses": []
     }
   ],
